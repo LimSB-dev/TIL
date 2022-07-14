@@ -6,6 +6,8 @@
    - 띄어쓰기로 구분하여 여러 파일을 한꺼번에 생성 가능하다.
    - 숨기 파일을 만들기 위해서는 `.`을 파일명 앞에 붙인다.
 
+   
+
    ```bash
    $ touch text.txt
    ```
@@ -16,6 +18,8 @@
    - 새 폴더를 생성하는 명령어
    - 띄어쓰기로 구분하여 여러 폴더를 한꺼번에 생성 가능하다.
    - 폴더 이름 사이에 공백을 넣고 싶다면 따옴표로 묶어서 입력한다.
+
+   
 
    ```bash
    $ mkdir folder
@@ -28,6 +32,8 @@
    - 현재 작업 중인 디렉토리의 폴더/파일 목록을 보여주는 명령어
    - `-a` : all 옵션. 숨김 파일까지 모두 보여준다.
    - `-l` : long 옵션. 용량, 수정 날짜 등 파일 정보를 자세히 보여준니다.
+
+   
 
    ```bash
    # 기본 사용
@@ -49,6 +55,8 @@
    - 폴더/파일을 다른 폴더 내로 이동 하거나 이름을 변경하는 명령어
    - 단, 다른 폴더로 이동할 때는 작성한 폴더가 반드시 있어야 한다. 없으면 이름이 바뀝니다.
 
+   
+
    ```bash
    # text.txt를 folder 폴더 안에 넣을 때
    $ mv text.txt folder
@@ -64,6 +72,8 @@
    - `cd ~` 를 입력하면 홈 디렉토리로 이동한다.
    - `cd ..` 를 입력하면 부모 디렉토리로 이동한다.
    - `cd -` 를 입력하면 바로 전 디렉토리로 이동한다.
+
+   
 
    ```bash
    # 현재 작업 중인 디렉토리에 있는 folder 폴더로 이동
@@ -84,6 +94,8 @@
    - `*(asterisk, wildcard)`를 사용해 `rm *.txt` 라고 입력하면 txt 파일 전체를 다 지운다.
    - `-r` : recursive 옵션. 폴더를 지울 때 사용한다.
 
+   
+
    ```bash
    $ rm test.txt
    $ rm -r folder
@@ -93,6 +105,8 @@
 
    - 폴더/파일을 여는 명령어
    - `Windows`에서는 start를, `Mac`에서는 open을 사용할 수 있다.
+
+   
 
    ```bash
    # Windows
@@ -134,7 +148,7 @@
 
    - 결과
 
-     ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b1534e2b-b67f-47d0-b966-76b3f50d09ad/Untitled.png)
+     <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b1534e2b-b67f-47d0-b966-76b3f50d09ad/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220714%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220714T145808Z&X-Amz-Expires=86400&X-Amz-Signature=80c9828b0abb4bee5af79a540a6898e485e21a8c18eefb3c3b797d916fcc368a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" alt="Untitled" style="zoom:200%;" />
 
 2. 목록 (List)
 
@@ -177,7 +191,7 @@
 
    - 결과
 
-     ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/00bafa7d-6880-4280-a763-e65d1c6356ca/Untitled.png)
+     <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/00bafa7d-6880-4280-a763-e65d1c6356ca/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220714%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220714T145910Z&X-Amz-Expires=86400&X-Amz-Signature=a16fb7ebb7ad787dc14a06a634522ad4ce9ca5894fa060b8a414e5209dbb87e6&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" alt="Untitled" style="zoom:200%;" />
 
 3. 강조 (Emphasis)
 
@@ -201,7 +215,7 @@
 
    - 결과
 
-     ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/77e83882-4710-4bcd-a010-8b2e88cfb543/Untitled.png)
+     <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/77e83882-4710-4bcd-a010-8b2e88cfb543/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220714%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220714T145943Z&X-Amz-Expires=86400&X-Amz-Signature=840abe5172af38c39cfe82ada432af49c41e51cc39817693d2539fea2af2d621&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" alt="Untitled" style="zoom:200%;" />
 
 4. 코드 (Code)
 
@@ -231,7 +245,7 @@
 
    - 결과
 
-     ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9ced236f-5816-41e3-8cd4-677b171bea30/Untitled.png)
+     <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9ced236f-5816-41e3-8cd4-677b171bea30/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220714%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220714T145959Z&X-Amz-Expires=86400&X-Amz-Signature=4b1c74eaea216a327fe4a38215a8e49e3c993a37d1ce2fd845086c6e71d29d90&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" alt="Untitled" style="zoom:200%;" />
 
 5. 링크 (Links)
 
@@ -247,7 +261,7 @@
 
    - 결과
 
-     ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a9050d59-f33b-4e58-a72e-b0c7ac035c79/Untitled.png)
+     <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a9050d59-f33b-4e58-a72e-b0c7ac035c79/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220714%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220714T150017Z&X-Amz-Expires=86400&X-Amz-Signature=bed0efa9720f8fbc906bb488a47833fff4811132e7dff2025a36a90ec362c850&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" alt="Untitled" style="zoom:200%;" />
 
 6. 이미지 (Images)
 
@@ -269,7 +283,7 @@
 
    - 결과
 
-     ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/db013257-c43f-49e6-a8f4-4ae8b915a198/Untitled.png)
+     <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/db013257-c43f-49e6-a8f4-4ae8b915a198/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220714%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220714T150032Z&X-Amz-Expires=86400&X-Amz-Signature=dc06e160406ce8088d91ec0f37491b873d1a816c223554326d9ecc46e8122ef9&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" alt="Untitled" style="zoom:200%;" />
 
 7. 인용 (Blockquote)
 
@@ -289,7 +303,7 @@
 
    - 결과
 
-     ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ae65cfd3-5a2d-49f9-bb6f-45ee987dda66/Untitled.png)
+     <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ae65cfd3-5a2d-49f9-bb6f-45ee987dda66/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220714%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220714T150317Z&X-Amz-Expires=86400&X-Amz-Signature=7c4fa7bf0b70b2df156ace5fbfa008f37b5f2da0c297cc9a6823eede5853d266&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" alt="Untitled" style="zoom:200%;" />
 
 8. 표 (Table)
 
@@ -337,4 +351,4 @@
 
    - 결과
 
-     ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5eaf7db0-394b-406a-ae1c-c4ebdf52b905/Untitled.png)
+     <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1b8821a7-034a-4d07-a33c-6712c801d0a8/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220714%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220714T150342Z&X-Amz-Expires=86400&X-Amz-Signature=457ea5eeb17971f4f9b4306131d022755232d12a10221cc4a924773e302dbbb7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" alt="Untitled" style="zoom:200%;" />
