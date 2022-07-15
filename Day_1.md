@@ -675,15 +675,15 @@ Date:   Thu Dec 9 15:26:46 2021 +0900
 
 3. vscode 자격 증명
 
-   ![Sign in with your browser를 클릭](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b28d0353-708a-43eb-9e97-8cc67d03fd4f/Untitled.png)
+   ![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b28d0353-708a-43eb-9e97-8cc67d03fd4f/Untitled.png)
 
    Sign in with your browser를 클릭한다.
 
-   ![Authorize GitCredentialManager를 클릭](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6dfe2042-1157-45fb-a444-3ce992a9b7fd/Untitled.png)
+   ![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6dfe2042-1157-45fb-a444-3ce992a9b7fd/Untitled.png)
 
    Authorize GitCredentialManager를 클릭한다.
 
-   ![정상적으로 자격 증명이 완료 되었습니다.](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fd24bd5f-4b46-4618-bb90-4ab5e90cdd3e/Untitled.png)
+   ![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fd24bd5f-4b46-4618-bb90-4ab5e90cdd3e/Untitled.png)
 
    정상적으로 자격 증명이 완료 된다.
 
@@ -703,7 +703,7 @@ Date:   Thu Dec 9 15:26:46 2021 +0900
 
 4. **원격 저장소에서 정상 업로드 확인**
 
-   ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6d5698c4-ea50-4e47-a766-feebbd5b7a3a/Untitled.png)
+   ![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6d5698c4-ea50-4e47-a766-feebbd5b7a3a/Untitled.png)
 
 ❗ **(주의) Github 원격 저장소에 절대로 파일을 드래그해서 업로드 하지 않는다!!!!**
 
@@ -713,6 +713,6 @@ Date:   Thu Dec 9 15:26:46 2021 +0900
 
 1. `git push`를 그림으로 이해하기
 
-![로컬 저장소의 commit 이력이 원격 저장소에 그대로 반영된다.](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/357df618-2ddf-4f18-b96c-c1b0787a1a45/Untitled.png)
+![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/357df618-2ddf-4f18-b96c-c1b0787a1a45/Untitled.png)
 
 로컬 저장소의 commit 이력이 원격 저장소에 그대로 반영된다.
