@@ -561,7 +561,7 @@ Date:   Thu Dec 9 15:26:46 2021 +0900
 
 1. 원격 저장소가 잘 생성되었는지 확인 후, 저장소의 주소를 복사한다.
 
-   ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/798d21e0-9c40-4995-b5ed-fc77b9e75bb1/%EA%B7%B8%EB%A6%BC5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220714%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220714T234739Z&X-Amz-Expires=86400&X-Amz-Signature=64d37ab553564a43811945e9f764d89ef3616b50c027b6c119b4946ca2a5d7c4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25EA%25B7%25B8%25EB%25A6%25BC5.png%22&x-id=GetObject)
+   ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/798d21e0-9c40-4995-b5ed-fc77b9e75bb1/%EA%B7%B8%EB%A6%BC5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220715%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220715T010410Z&X-Amz-Expires=86400&X-Amz-Signature=f9792a8c75f459a0ff6809a34076894ea79b79628e79e80b4e360e524977d4a4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25EA%25B7%25B8%25EB%25A6%25BC5.png%22&x-id=GetObject)
 
 2. 기존 실습 때 만들었던 홈 디렉토리의 TIL 폴더로 가서 vscode를 연다.
 
@@ -673,15 +673,15 @@ Date:   Thu Dec 9 15:26:46 2021 +0900
 
 3. vscode 자격 증명
 
-   ![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b28d0353-708a-43eb-9e97-8cc67d03fd4f/Untitled.png)
+   ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b28d0353-708a-43eb-9e97-8cc67d03fd4f/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220715%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220715T010352Z&X-Amz-Expires=86400&X-Amz-Signature=5b78b9b1cc81d5e2c4179ec1d912812198f3700015fb9e774b3426cdf90f372c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
    Sign in with your browser를 클릭한다.
 
-   ![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6dfe2042-1157-45fb-a444-3ce992a9b7fd/Untitled.png)
+   ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6dfe2042-1157-45fb-a444-3ce992a9b7fd/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220715%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220715T010336Z&X-Amz-Expires=86400&X-Amz-Signature=9c5d06191e17654958655c941ed75a355c6ff3da2d7981483ee4b1e522082258&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
    Authorize GitCredentialManager를 클릭한다.
 
-   ![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fd24bd5f-4b46-4618-bb90-4ab5e90cdd3e/Untitled.png)
+   ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fd24bd5f-4b46-4618-bb90-4ab5e90cdd3e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220715%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220715T010327Z&X-Amz-Expires=86400&X-Amz-Signature=838d06b140cc9e02cedeca6697d546092ef24b921ebeb36472461d1c8dfd31a0&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
    정상적으로 자격 증명이 완료 된다.
 
@@ -701,7 +701,7 @@ Date:   Thu Dec 9 15:26:46 2021 +0900
 
 4. **원격 저장소에서 정상 업로드 확인**
 
-   ![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6d5698c4-ea50-4e47-a766-feebbd5b7a3a/Untitled.png)
+   ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6d5698c4-ea50-4e47-a766-feebbd5b7a3a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220715%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220715T010312Z&X-Amz-Expires=86400&X-Amz-Signature=68851e68099b6c6a86ecfdda467482b126fdf254dd93d29f75841047573d92c0&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ❗ **(주의) Github 원격 저장소에 절대로 파일을 드래그해서 업로드 하지 않는다!!!!**
 
@@ -711,6 +711,6 @@ Date:   Thu Dec 9 15:26:46 2021 +0900
 
 1. `git push`를 그림으로 이해하기
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/357df618-2ddf-4f18-b96c-c1b0787a1a45/Untitled.png)
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/357df618-2ddf-4f18-b96c-c1b0787a1a45/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220715%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220715T010200Z&X-Amz-Expires=86400&X-Amz-Signature=aa97e0534173efbe88e8a03acf4a29287afc70f1c501e3d86c40d6dcba8fd705&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 로컬 저장소의 commit 이력이 원격 저장소에 그대로 반영된다.
