@@ -155,7 +155,9 @@ clone과 pull이 모두 원격 저장소로부터 가져오는 명령어라서 �
 
   **원격 저장소는 `TIL-remote` 이지만, 위와 같이 작성하면 강의장 컴퓨터에는 `TIL-class`라는 이름으로 로컬 저장소가 생성된다.**
 
-- 결과![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/132461a5-d490-4417-b8e4-11d82d1a0252/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220715%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220715T034035Z&X-Amz-Expires=86400&X-Amz-Signature=bda657a244c3e81d7e0ee6f54c4a0957d22573e26265a5cdbc0c69b8671c97e9&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+- 결과
+
+  ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/132461a5-d490-4417-b8e4-11d82d1a0252/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220715%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220715T034035Z&X-Amz-Expires=86400&X-Amz-Signature=bda657a244c3e81d7e0ee6f54c4a0957d22573e26265a5cdbc0c69b8671c97e9&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 #### git push
 
