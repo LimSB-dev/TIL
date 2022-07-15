@@ -7,3 +7,5 @@
 - 원격 저장소
 
 ### [Day 2](https://github.com/LimSB-dev/TIL/blob/master/Day_2.md)
+- .gitignore
+- clone & pull
