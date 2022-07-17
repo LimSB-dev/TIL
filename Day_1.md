@@ -709,8 +709,8 @@ Date:   Thu Dec 9 15:26:46 2021 +0900
 
 그 이유는 로컬 저장소와 원격 저장소의 동기화 때문이다. 로컬 저장소에서 변경이 먼저 일어나고, 그 변경 사항을 원격 저장소에 반영하는 형태여야 한다. 하지만, Github에 드래그를 해서 파일을 업로드하면 원격 저장소에 변경이 먼저 일어나는 형태가 되기 때문에 이러한 행동을 지양해야 한다.
 
-1. `git push`를 그림으로 이해하기
+5. `git push`를 그림으로 이해하기
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/357df618-2ddf-4f18-b96c-c1b0787a1a45/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220715%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220715T010200Z&X-Amz-Expires=86400&X-Amz-Signature=aa97e0534173efbe88e8a03acf4a29287afc70f1c501e3d86c40d6dcba8fd705&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/357df618-2ddf-4f18-b96c-c1b0787a1a45/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220717%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220717T135009Z&X-Amz-Expires=86400&X-Amz-Signature=fef4ba8449d023c550efa28295624fcd274810701bdb2480139d8c4f8edca5d5&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 로컬 저장소의 commit 이력이 원격 저장소에 그대로 반영된다.
