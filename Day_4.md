@@ -332,6 +332,7 @@ func(1, 2, 3, 'a', 'b')
 
 #### 모듈 만들기 - calculator
 
+- calculator/tools.py에 add 함수와 minus 함수 작성
   ```python
   def add(num1, num2):
     return num1 + num2
