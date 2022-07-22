@@ -12,6 +12,11 @@
 
 ### [Day 3](https://github.com/LimSB-dev/TIL/blob/master/Day_3.md)
 - Python 기초 문법
+- 변수
+- 연산자
+- 자료형
+  - 컨테이너
+  - 시퀀스 비시퀀스
 
 ### [Day 4](https://github.com/LimSB-dev/TIL/blob/master/Day_4.md)
 - Python 기초 문법
